@@ -1,0 +1,52 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "NT Infotech",
+      "empcount": "5900",
+      "revenue": "2800000",
+      "address": "1st street\nchennai\npin 600048",
+      "isactive": true
+    },
+    {
+      "name": "NT Infotech",
+      "empcount": "1000",
+      "revenue": "2000",
+      "address": "test",
+      "isactive": true,
+      "id": 3
+    },
+    {
+      "name": "NT Infotech",
+      "empcount": "1000",
+      "revenue": "2000",
+      "address": "test",
+      "isactive": true,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "NT Infotech",
+      "empcount": "1000",
+      "revenue": "2000",
+      "address": "test",
+      "isactive": true
+    },
+    {
+      "name": "NT Infotech",
+      "empcount": "1000",
+      "revenue": "2000",
+      "address": "test",
+      "isactive": true,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Duncan systems",
+      "empcount": "546",
+      "revenue": "96000",
+      "address": "45, jangon street",
+      "isactive": true
+    }
+  ]
+}
