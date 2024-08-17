@@ -2,14 +2,14 @@
   "company": [
     {
       "id": 1,
-      "name": "NT Infotech",
+      "name": "GT Infotech",
       "empcount": "5900",
       "revenue": "2800000",
       "address": "1st street\nchennai\npin 600048",
       "isactive": true
     },
     {
-      "name": "NT Infotech",
+      "name": "JH Infotech",
       "empcount": "1000",
       "revenue": "2000",
       "address": "test",
@@ -17,7 +17,7 @@
       "id": 3
     },
     {
-      "name": "NT Infotech",
+      "name": "LO Infotech",
       "empcount": "1000",
       "revenue": "2000",
       "address": "test",
@@ -26,14 +26,14 @@
     },
     {
       "id": 5,
-      "name": "NT Infotech",
+      "name": "UB Infotech",
       "empcount": "1000",
       "revenue": "2000",
       "address": "test",
       "isactive": true
     },
     {
-      "name": "NT Infotech",
+      "name": "NHG Infotech",
       "empcount": "1000",
       "revenue": "2000",
       "address": "test",
@@ -42,7 +42,7 @@
     },
     {
       "id": 7,
-      "name": "Duncan systems",
+      "name": "Dwelin systems",
       "empcount": "546",
       "revenue": "96000",
       "address": "45, jangon street",
