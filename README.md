@@ -1,3 +1,6 @@
+#summery
+this is one of a replica of some projects that i have worked on my previous company so basically this is a angular datatables project it was build to maintain records of the employees of the company.
+
 # Jsoncrud
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
